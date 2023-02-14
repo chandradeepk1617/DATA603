@@ -53,7 +53,7 @@ In this phase we need to extract the use information from the generated data. We
 In this phase we need to merge information that we get from various heterogenous sources. The data that is extracted can be visualized using different visualization tools like tableau, power BI etc
 
 ### Phase 4: Query Processing, Data Modeling, and Analysis:
-The simplest technique to get usable data subsets from a larger collection of data is using a query. An abstract model known as a data model organizes data items and standardizes how they relate to one another. Eg; ER Model , Semantic Data Model. The data needs to be analysed and all the times the sql queries
+The simplest technique to get usable data subsets from a larger collection of data is using a query. An abstract model known as a data model organizes data items and standardizes how they relate to one another. Eg; ER Model , Semantic Data Model. The data needs to be analysed and all the times the sql queries are not enough in analysis and we must use some big data tools to analyse the data.
 
 ### Phase 5: Interpretation :
 In this phase we need to understand and verify the results that are produced. We might need to know some preliminary information like how the data is derived and on what inputs we got the results etc. By this phase the model is ready for decision making.
